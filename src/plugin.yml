@@ -1,0 +1,4 @@
+name: ChatPoster
+main: net.mctitan.ChatPoster.ChatPoster
+version: 1.0
+softdepend: [Factions]
